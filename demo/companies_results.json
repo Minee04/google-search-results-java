@@ -1,0 +1,184 @@
+{
+  "total_results": 20,
+  "location": "Huddinge, Stockholm County, Sweden",
+  "search_query": "companies",
+  "timestamp": "2025-06-23T20:21:39.735497200",
+  "companies": [
+    {
+      "rating": 4.3,
+      "reviews": 40,
+      "title": "Octapharma AB",
+      "type": "Läkemedelsföretag",
+      "address": "Stockholm",
+      "phone": "08-566 430 00",
+      "google_maps_url": "https://www.google.se/maps/dir//Octapharma+AB,+Lars+Forssells+gata+23,+112+51+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d88776ce6bb:0xa5430198332e1941?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIAhAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.7,
+      "reviews": 41,
+      "title": "Kindred Group",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "google_maps_url": "https://www.google.se/maps/dir//Kindred+Group,+Regeringsgatan+25,+111+53+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d68f76ebeb7:0xad50ac7b8e42c753?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIFRAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.8,
+      "reviews": 5,
+      "title": "CorPower Ocean AB",
+      "type": "Maskinteknik",
+      "address": "Hägersten",
+      "phone": "070-422 99 13",
+      "google_maps_url": "https://www.google.se/maps/dir//CorPower+Ocean+AB,+V%C3%A4stberga+All%C3%A9+60,+126+30+H%C3%A4gersten/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d5b8970f8f3:0x24c4b9289398a707?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIAxAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.5,
+      "reviews": 13,
+      "title": "Oljibe AB",
+      "type": "Byggfirma",
+      "address": "Hägersten",
+      "phone": "08-505 725 00",
+      "google_maps_url": "https://www.google.se/maps/dir//Oljibe+AB,+V%C3%A4stberga+All%C3%A9+36C,+126+30+H%C3%A4gersten/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f77a8cb2f6e71:0xbc89c5ca50a7256b?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIExAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.6,
+      "reviews": 27,
+      "title": "FunnelBud Marketing AB",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "phone": "010-555 85 41",
+      "google_maps_url": "https://www.google.se/maps/dir//FunnelBud+Marketing+AB,+The+Park,+H%C3%A4lsingegatan+49,+113+31+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d5fa34d8279:0x6ac835cf9c892279?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIFBAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 5.0,
+      "reviews": 3,
+      "title": "EFutures Sweden - Software Company in Sweden",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "phone": "08-559 241 71",
+      "google_maps_url": "https://www.google.se/maps/dir//EFutures+Sweden+-+Software+Company+in+Sweden,+House+of+Sri+Lanka,+Katarinav%C3%A4gen+15,+116+45+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f7729b4239261:0xb43c9bc85fe1156f?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIEhAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 3.0,
+      "reviews": 2,
+      "title": "Redwood Pharma AB",
+      "type": "Läkemedelsföretag",
+      "address": "Stockholm",
+      "phone": "08-559 347 37",
+      "google_maps_url": "https://www.google.se/maps/dir//Redwood+Pharma+AB,+Ringv%C3%A4gen+100,+118+60+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d4f95b672eb:0x72819a81e75cf4ae?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIChAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 5.0,
+      "reviews": 5,
+      "title": "APL",
+      "type": "Läkemedelsföretag",
+      "address": "Kungens Kurva",
+      "phone": "010-447 96 00",
+      "google_maps_url": "https://www.google.se/maps/dir//APL,+Prismav%C3%A4gen+2,+141+75+Kungens+Kurva/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f76adfd443aab:0x707b93740db4fe34?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIERAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 3.9,
+      "reviews": 35,
+      "title": "Kavli",
+      "type": "Konservfabrik",
+      "address": "Stockholm",
+      "phone": "08-727 05 00",
+      "google_maps_url": "https://www.google.se/maps/dir//Kavli,+Spikskogatan+17,+125+48+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f7708b48dc435:0x33f6ed1d40371707?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIDxAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.2,
+      "reviews": 161,
+      "title": "Star Stable Entertainment AB",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "google_maps_url": "https://www.google.se/maps/dir//Star+Stable+Entertainment+AB,+Magnus+Ladul%C3%A5sgatan+65,+118+27+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d4f79555555:0x248a360625927e4e?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIDhAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.5,
+      "reviews": 19,
+      "title": "Resolution Games",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "google_maps_url": "https://www.google.se/maps/dir//Resolution+Games,+S%C3%B6dermalmsall%C3%A9n+36,+4th+floor,+118+28+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d68adee0c37:0xf51e095a456b011c?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIDRAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 5.0,
+      "reviews": 2,
+      "title": "Ormsta Bygg - Byggföretag Stockholm (Företagsgruppen Inreco)",
+      "type": "Byggfirma",
+      "address": "Sollentuna",
+      "phone": "070-626 63 66",
+      "google_maps_url": "https://www.google.se/maps/dir//Ormsta+Bygg+-+Byggf%C3%B6retag+Stockholm+(F%C3%B6retagsgruppen+Inreco),+Orrv%C3%A4gen+26,+192+55+Sollentuna/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f97351adb9e69:0x43b8a41b0969fcd1?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIDBAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 5.0,
+      "reviews": 9,
+      "title": "FunRock",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "google_maps_url": "https://www.google.se/maps/dir//FunRock,+%C3%85s%C3%B6gatan+108,+118+29+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d671401d09b:0xfad1f5739d576fc7?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQICxAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.6,
+      "reviews": 200,
+      "title": "AFRY",
+      "type": "Civilingenjörsverksamhet",
+      "address": "Solna",
+      "phone": "010-505 00 00",
+      "google_maps_url": "https://www.google.se/maps/dir//AFRY,+Fr%C3%B6sundaleden+2A,+169+70+Solna/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x4653a407ab6bda71:0x522e9ebed6347142?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQICBAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.3,
+      "reviews": 39,
+      "title": "Starbreeze Studios",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "phone": "08-20 92 08",
+      "google_maps_url": "https://www.google.se/maps/dir//Starbreeze+Studios,+Birger+Jarlsgatan+61,+113+53+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d5ebb0aca53:0xeda3e5fa3fec12de?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQICRAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.2,
+      "reviews": 19,
+      "title": "Betsson AB",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "phone": "08-506 403 00",
+      "google_maps_url": "https://www.google.se/maps/dir//Betsson+AB,+Regeringsgatan+28,+111+53+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d5eb9555555:0x708ade3ea2344555?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIEBAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.8,
+      "reviews": 14,
+      "title": "Sirocco Group",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "phone": "08-410 925 00",
+      "google_maps_url": "https://www.google.se/maps/dir//Sirocco+Group,+Drottninggatan+92,+2nd+floor,+111+36+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d6655d554fd:0x200ff3f555ddbff3?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIBhAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.4,
+      "reviews": 7,
+      "title": "Chiesi Pharma AB",
+      "type": "Läkemedelsföretag",
+      "address": "Stockholm",
+      "phone": "08-753 35 20",
+      "google_maps_url": "https://www.google.se/maps/dir//Chiesi+Pharma+AB,+Klara+Norra+kyrkogata+34,+111+22+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9c4189c239d9:0xbed01b1d4ede2412?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIBRAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 4.0,
+      "reviews": 11,
+      "title": "BBM Fasadputs \u0026 Fasadrenovering Stockholm",
+      "type": "Byggfirma",
+      "address": "Stockholm",
+      "phone": "08-552 404 90",
+      "google_maps_url": "https://www.google.se/maps/dir//BBM+Fasadputs+%26+Fasadrenovering+Stockholm,+Ekensbergsv%C3%A4gen+13,+117+69+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f7637d2e3f68b:0x50cca07e6c9ef955?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIBxAA\u0026hl\u003dsv\u0026gl\u003dse"
+    },
+    {
+      "rating": 2.9,
+      "reviews": 17,
+      "title": "Evolution AB (publ)",
+      "type": "Programvaruföretag",
+      "address": "Stockholm",
+      "phone": "08-440 46 60",
+      "google_maps_url": "https://www.google.se/maps/dir//Evolution+AB+(publ),+Vasagatan+16,+111+30+Stockholm/data\u003d!4m6!4m5!1m1!4e2!1m2!1m1!1s0x465f9d0400b0c451:0xa62bfcea0671bff7?sa\u003dX\u0026ved\u003d2ahUKEwiz5-7Ti4iOAxWz9rsIHV8EGp4Q48ADegQIBBAA\u0026hl\u003dsv\u0026gl\u003dse"
+    }
+  ]
+}

@@ -11,3 +11,5 @@ demo/libs/*.jar
 derive.rb
 gradlew.bat
 switch_java.sh
+demo/src/main/java/demo/App.java
+gradle.zip
